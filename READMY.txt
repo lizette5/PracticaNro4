@@ -1,0 +1,7 @@
+-----------Versoin0.1-----------------------------
+El siguiente aplicativo funciona de la siguiente manera:
+	1.- Se debe ingresar un alumno seleccionando el boton "registrar alumno" que se encuentra en la parte inferior
+	2.- Se debe seleccionar al nuevo alumno, que aparecerá en el listView, en la parte superior, para ver sus datos en los EditTex inferiores.
+	3.- Para editar un alumno deberemos seleccionar un alumno del TextView de la parte superior, luego presionar el boton "editar Estudiante"
+	4.- Esto nos llevará a una nueva ventana que nos permitira ingresar los nuevos datos, una vez ingresados, se debe presionar el boton.
+	5.- regresamos a la vista principal y veremos que s emodifico tanto en el listView y en los EditText de la parte inferior.
